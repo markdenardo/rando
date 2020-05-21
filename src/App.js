@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import Viewer from './Viewer'
+import Fetch from './Fetch'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      < Viewer />
+      < Fetch />
       </header>
     </div>
   );
